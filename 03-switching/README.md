@@ -1,6 +1,5 @@
 # 03 — Switching
 
-Purpose
 This document records the switch used in the lab (Cisco Catalyst 2960), the management IP, and the physical port map I used. Keep the running-config here (sanitized) so you can restore the known-good state.
 
 Switch summary
