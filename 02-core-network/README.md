@@ -1,6 +1,5 @@
 # 02 — Core Network
 
-Short purpose
 This file captures the core WAN/LAN decisions I made: modem passthrough, router LAN, DHCP ranges and basic hardening notes.
 
 WAN / Modem
