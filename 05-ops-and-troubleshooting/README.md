@@ -1,6 +1,5 @@
 # Operations & Troubleshooting
 
-Purpose
 A short, practical folder I use to remind myself how to check the network, where backups live, and how to perform common recovery tasks.
 
 Quick health checks
