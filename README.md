@@ -7,7 +7,7 @@ Quick links
 - [01 — Overview & Purpose](01-overview/README.md)
 - [02 — Core Network (AT&T modem & NETGEAR router)](02-core-network/README.md)
 - [03 — Switching (Cisco 2960 notes & port map)](03-switching/README.md)
-- 04 — WiFi & Wireless
+- [04 — WiFi & Wireless](04-wifi-and-wireless)
   - [WLAN design](04-wifi-and-wireless/wlan-design.md)
   - [SSID security](04-wifi-and-wireless/ssid-security.md)
 - [05 — Operations & Troubleshooting](05-ops-and-troubleshooting/README.md)
