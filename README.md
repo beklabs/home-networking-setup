@@ -1,27 +1,27 @@
-Overview & Purpose
+# Home Networking Setup
 
-This folder is a concise, personal record of my home-networking lab. It is intended as a memory aid and portfolio artifact (what I built, why, and where to find things). It is not a step‑by‑step tutorial for others.
+This repository documents my personal home network: the topology, core network choices, switch setup, and short operational notes. It's a memory aid and portfolio artifact rather than a public how‑to.
 
-What this repo is for
-- Personal reference: capture configuration choices, diagrams, and notes so I can re-run or update the lab in future.
-- Portfolio: high‑level documentation that demonstrates my networking knowledge.
-- Change history: short record of important changes and where to find backups/configs.
+Quick links
 
-Quick snapshot
-- Diagram (source): `diagrams/network-diagram.drawio`
-- Diagram (export): `diagrams/home-network.drawio.png`
+- [01 — Overview & Purpose](01-overview/README.md)
+- [02 — Core Network (AT&T modem & NETGEAR router)](02-core-network/README.md)
+- [03 — Switching (Cisco 2960 notes & port map)](03-switching/README.md)
+- 04 — WiFi & Wireless
+  - [WLAN design](04-wifi-and-wireless/wlan-design.md)
+  - [SSID security](04-wifi-and-wireless/ssid-security.md)
+- [05 — Operations & Troubleshooting](05-ops-and-troubleshooting/README.md)
 
-Device inventory
-- AT&T modem (ISP) — management IP: 192.168.2.254 — IP Passthrough enabled
-- NETGEAR router — LAN: 192.168.1.1 — DHCP: 192.168.1.100–199
-- Cisco Catalyst 2960 (switch) — management IP: 192.168.1.2
-- Ubuntu laptop/server — 192.168.1.4 (placeholder; full server docs live in a separate repo when ready)
+Diagrams & assets
 
-Where to look next
-- Core network details: `../02-core-network/README.md`
-- Switch ports & map: `../03-switching/README.md`
-- Wi‑Fi design & SSID notes: `../04-wifi-and-wireless/`
-- Operations & troubleshooting: `../05-ops-and-troubleshooting/README.md`
+- [Draw.io source: diagrams/network-diagram.drawio](diagrams/network-diagram.drawio)
+- [Exported PNG: diagrams/home-network.drawio.png](diagrams/home-network.drawio.png)
 
 Notes
-- This overview intentionally avoids deep server internals. Server configuration and application-level details will be documented in a separate repo when ready.
+
+- Server/application‑level details are intentionally minimal here — full server documentation will live in a separate repo when ready.
+- I keep sanitized device configs (exports) and backups under `configs/` when available. Do not store secrets in this repo.
+
+Change log
+
+- 2026-08-07 — Created condensed 5-chapter docs and populated core notes, switch express setup, and Wi‑Fi details.
