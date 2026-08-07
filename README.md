@@ -14,7 +14,7 @@ Quick links
 
 Diagrams & assets
 
-- [Draw.io source: diagrams/network-diagram.drawio](diagrams/network-diagram.drawio)
+- [Draw.io source: diagrams/network-diagram.drawio](diagrams/home-network.drawio)
 - [Exported PNG: diagrams/home-network.drawio.png](diagrams/home-network.drawio.png)
 
 Notes
