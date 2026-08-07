@@ -8,7 +8,7 @@ What this repo is for
 - Change history: short record of important changes and where to find backups/configs.
 
 Quick snapshot
-- Diagram (source): `diagrams/network-diagram.drawio`
+- Diagram (source): `diagrams/home-network.drawio`
 - Diagram (export): `diagrams/home-network.drawio.png`
 
 Device inventory
