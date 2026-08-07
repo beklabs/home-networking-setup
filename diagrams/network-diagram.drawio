@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2026-08-07T00:00:00.000Z" agent="copilot" etag="copilot-1">
+  <diagram id="sheet-1" name="Labeled-Ports">
+    <mxGraphModel dx="827" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="2" value="Switch (Cisco Catalyst 2960 — WS-C2960-24PC-S)\nFa0/1 — Laptop / Server (static 192.168.1.4)\nGi0/1 — NETGEAR R7000 (uplink to NETGEAR R7000)\nGi0/2 — Desktop PC (DHCP)\n\nAT&T BGW320-500 (ISP gateway)\nNETGEAR Nighthawk R7000 — HW R7000, Firmware V1.0.12.216_10.2.122" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontFamily=Menlo,Monaco,monospace;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="460" height="200" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
